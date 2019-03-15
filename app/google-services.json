@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337058403716",
+    "firebase_url": "https://billme-7d4bc.firebaseio.com",
+    "project_id": "billme-7d4bc",
+    "storage_bucket": "billme-7d4bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337058403716:android:5f5f04ff76f55f2c",
+        "android_client_info": {
+          "package_name": "com.example.android.billme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337058403716-p6hvr1jlalbktfbirufe07o0cg20tk09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.billme",
+            "certificate_hash": "91d1b3818cb789febe832264fb6e804e63415a5f"
+          }
+        },
+        {
+          "client_id": "337058403716-tf60mqhec046jqoh0er990aci62q7jb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1Z7KOLAWKSsrITJjfNa3seTFSnvDBcE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337058403716-tf60mqhec046jqoh0er990aci62q7jb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
